@@ -1,1 +1,1 @@
-https://blynk.cloud/dashboard/356955/global/devices/3549851
+''Blynk Cloud Server link:'' https://blynk.cloud/dashboard/356955/global/devices/3549851
